@@ -1,8 +1,8 @@
-﻿//Task 1
-using System;
+﻿using System;
 using System.ComponentModel;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
+
+//Task 1
 string name = "Joh Doe";
 int age = 25;
 bool isAdmin = true;
