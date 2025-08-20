@@ -1,5 +1,5 @@
 ﻿//Task 1
-string name = "Joh Doe";
+string name = "John Doe";
 int age = 25;
 bool isAdmin = true;
 Console.WriteLine(name);
