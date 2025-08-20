@@ -34,11 +34,6 @@ foreach(int i in myArray)
 }
 
 //Task 5
-/*Write a method named Greet that takes a string parameter name and prints out a personalized greeting message.
-The method should print "Hello, !" to the console.
-Call the Greet method from the Main method with the argument "Alice".
-*/
-
 void Greet(string name)
 { 
     Console.WriteLine($"Hello, {name}!");
