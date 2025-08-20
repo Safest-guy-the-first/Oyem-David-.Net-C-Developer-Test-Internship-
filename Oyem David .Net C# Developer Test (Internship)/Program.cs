@@ -1,8 +1,4 @@
-﻿using System;
-using System.ComponentModel;
-
-
-//Task 1
+﻿//Task 1
 string name = "Joh Doe";
 int age = 25;
 bool isAdmin = true;
